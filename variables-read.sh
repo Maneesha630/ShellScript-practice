@@ -1,6 +1,6 @@
 #!/bin/bash
 
 echo " enter your username: "
-read -s username
+read username
 echo " user name entered is:$username "
 
