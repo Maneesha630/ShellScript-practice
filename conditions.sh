@@ -1,7 +1,7 @@
 #!/bin/bash
-
-read -s Number
 echo "enter the number: "
+read -s Number
+
 if [ $Number -gt 20 ]
 then
 echo "Given number :$Number is greaterthan 20"
